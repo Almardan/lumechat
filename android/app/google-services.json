@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "788977686388",
+    "project_id": "lumechat-ed4f2",
+    "storage_bucket": "lumechat-ed4f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788977686388:android:a290dbb11c3eeca0f67e21",
+        "android_client_info": {
+          "package_name": "com.example.lumechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788977686388-ttth763ro1fsfegqq6vepmvcsb4h703k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lumechat",
+            "certificate_hash": "1f9beda81dc806fd2c06fdaed029a48b24e655ef"
+          }
+        },
+        {
+          "client_id": "788977686388-7dcsidbp9s1obrjppducvrd1g69surmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLxVOU4vN_olyz4-xJrbBGIyJSKQq6Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788977686388-7dcsidbp9s1obrjppducvrd1g69surmg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788977686388-snfibqu41cdu81ljbmbmlohvqdg8ukur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lumechat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
